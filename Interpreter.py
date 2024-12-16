@@ -1,5 +1,5 @@
 # Name: Enis Denizcier
-# CISC 3120
+# CISC 3160
 # Interpreter.py
 # 12-16-24
 
